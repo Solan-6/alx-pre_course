@@ -1,4 +1,3 @@
 
-My first commit
-up_to-date
+up_to_date
 
